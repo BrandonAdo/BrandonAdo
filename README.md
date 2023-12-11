@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BrandonAdo
+- 👀 I’m interested in web3 projects
+- 🌱 I’m currently learning solidity, cairo, rust
+- 💞️ I’m looking to collaborate on web3 game
